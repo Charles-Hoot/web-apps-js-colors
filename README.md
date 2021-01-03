@@ -4,8 +4,8 @@
 
 ## Links
 
-- [Demo](https://profcase.github.io/js-colors/)
-- [Source](https://github.com/profcase/js-colors)
+- [Demo](https://charles-hoot.github.io/web-apps-js-colors/)
+- [Repo](https://github.com/charles-hoot/web-apps-js-colors)
 
 ## Requirements
 
@@ -26,4 +26,3 @@
 
 ## See Also
 
-- [More App Examples](https://profcase.github.io/web-apps-list/)
